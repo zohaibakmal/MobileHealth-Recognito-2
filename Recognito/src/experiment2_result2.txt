@@ -1,0 +1,252 @@
+Trained: AdoraSvitak.mp3
+Trained: AlaindeBotton.mp3
+Trained: AlexTabarrok.mp3
+Trained: AmyTan.mp3
+Trained: AubreyDeGrey.mp3
+Trained: BarrySchwartz.mp3
+Trained: BarrySchwartz2.mp3
+Trained: BenDunlap.mp3
+Trained: BenjaminZander.mp3
+Trained: BillGates.mp3
+Trained: BobThurman.mp3
+Trained: BrianCox.mp3
+Trained: BrianGreene.mp3
+Trained: BurtRutan.mp3
+Trained: CarlHonore.mp3
+Trained: CaryFowler.mp3
+Trained: CharlesLeadbeater.mp3
+Trained: ChrisAbani.mp3
+Trained: ClayShirky.mp3
+Trained: DanAriely.mp3
+Trained: DanBuettner.mp3
+Trained: DanDennett.mp3
+Trained: DanGilbert.mp3
+Trained: DanGilbert2.mp3
+Trained: DanielGoleman.mp3
+Trained: DanielKahneman.mp3
+Trained: DanielPink.mp3
+Trained: DavidDeutsch.mp3
+Trained: DavidPogue.mp3
+Trained: DeanKamen.mp3
+Trained: DeanKamen2.mp3
+Trained: DeanOrnish.mp3
+Trained: DerekSivers.mp3
+Trained: ErikHersman.mp3
+Trained: ErinMcKean.mp3
+Trained: EvanWilliams.mp3
+Trained: EveEnsler.mp3
+Trained: EvelynGlennie.mp3
+Trained: EvgenyMorozov.mp3
+Trained: FieldsWicker.mp3
+Trained: GeoffMulgan.mp3
+Trained: HansRosling.mp3
+Trained: HectorRuiz.mp3
+Trained: HelenFisher.mp3
+Trained: HelenFisher2.mp3
+Trained: HowardRheingold.mp3
+Trained: IsabelAllende.mp3
+Trained: JamesCameron.mp3
+Trained: JamesForbes.mp3
+Trained: JamesSurowiecki.mp3
+Trained: JanChipchase.mp3
+Trained: JaneGoodall.mp3
+Trained: JaneMcGonigal.mp3
+Trained: JanineBenyus.mp3
+Trained: JaredDiamond.mp3
+Trained: JayWalker.mp3
+Trained: JeffBezos.mp3
+Trained: JimmyWales.mp3
+Trained: JJAbrams.mp3
+Trained: JohnFrancis.mp3
+Trained: JohnHodgman.mp3
+Trained: JohnMaeda.mp3
+Trained: JonathanZittrain.mp3
+Trained: JoseAntonioAbreu.mp3
+Trained: JuliaSweeney.mp3
+Trained: KaryMullis.mp3
+Trained: KenRobinson.mp3
+Trained: LawrenceLessig.mp3
+Trained: LizColeman.mp3
+Trained: MaeJemison.mp3
+Trained: MarcPachter.mp3
+Trained: MartinSeligman.mp3
+Trained: MatthewChilds.mp3
+Trained: MatthieuRicard.mp3
+Trained: MenaTrott.mp3
+Trained: MichaelSpecter.mp3
+Trained: MurrayGellMann.mp3
+Trained: NancyEtcoff.mp3
+Trained: NatalieMerchant.mp3
+Trained: NicholasChristakis.mp3
+Trained: NickVeasey.mp3
+Trained: NoahFeldman.mp3
+Trained: OliverSacks.mp3
+Trained: PaolaAntonelli.mp3
+Trained: PatriciaBurchat.mp3
+Trained: PatrickAwuah.mp3
+Trained: PaulStamets.mp3
+Trained: PhilBorges.mp3
+Trained: PhilippeStarck.mp3
+Trained: PhilipZimbardo.mp3
+Trained: PhilZimbardo2.mp3
+Trained: RaghavaKK.mp3
+Trained: RayKurzweil.mp3
+Trained: RebeccaSaxe.mp3
+Trained: ReedKroloff.mp3
+Trained: RichardBaraniuk.mp3
+Trained: RichardDawkins.mp3
+Trained: RichardDawkins2.mp3
+Trained: RichardSt.John.mp3
+Trained: RickWarren.mp3
+Trained: RobertWright.mp3
+Trained: RobForbes.mp3
+Trained: SamHarris.mp3
+Trained: SasaVucinic.mp3
+Trained: SaulGriffith.mp3
+Trained: ScottKim.mp3
+Trained: SergeyBrin_LarryPage.mp3
+Trained: SethGodin.mp3
+Trained: SimonSinek.mp3
+Trained: StephenHawking.mp3
+Trained: StephenPetranek.mp3
+Trained: StevenJohnson.mp3
+Trained: StevenPinker.mp3
+Trained: StewartBrand.mp3
+Trained: SusanBlackmore.mp3
+Trained: ThelmaGolden.mp3
+Trained: TimBerners.mp3
+Trained: TomHoney.mp3
+Trained: TomWujec.mp3
+Trained: TomWujec2.mp3
+Trained: TonyRobbins.mp3
+Trained: VilayanurRamachandran.mp3
+Trained: VirginiaPostrel.mp3
+Trained: YochaiBenkler.wav
+Trained: ZeresenayAlemseged.mp3
+Universal model trained!!
+Test,Matched To,Likelihood
+AdoraSvitak.mp3,RaghavaKK.mp3,96%
+AlaindeBotton.mp3,SamHarris.mp3,100%
+AlexTabarrok.mp3,MarcPachter.mp3,95%
+AmyTan.mp3,HelenFisher2.mp3,99%
+AubreyDeGrey.mp3,AubreyDeGrey.mp3,100%
+BarrySchwartz.mp3,SasaVucinic.mp3,100%
+BarrySchwartz2.mp3,LizColeman.mp3,94%
+BenDunlap.mp3,RichardSt.John.mp3,100%
+BenjaminZander.mp3,TomWujec.mp3,88%
+BillGates.mp3,BillGates.mp3,98%
+BobThurman.mp3,BobThurman.mp3,95%
+BrianCox.mp3,PatriciaBurchat.mp3,97%
+BrianGreene.mp3,RichardDawkins2.mp3,99%
+BurtRutan.mp3,YochaiBenkler.wav,100%
+CarlHonore.mp3,RichardDawkins2.mp3,99%
+CaryFowler.mp3,CaryFowler.mp3,96%
+CharlesLeadbeater.mp3,DanGilbert2.mp3,99%
+ChrisAbani.mp3,MaeJemison.mp3,82%
+ClayShirky.mp3,DanielKahneman.mp3,98%
+DanAriely.mp3,ErikHersman.mp3,94%
+DanBuettner.mp3,DanBuettner.mp3,96%
+DanDennett.mp3,StephenPetranek.mp3,99%
+DanGilbert.mp3,LawrenceLessig.mp3,100%
+DanGilbert2.mp3,CharlesLeadbeater.mp3,98%
+DanielGoleman.mp3,SasaVucinic.mp3,100%
+DanielKahneman.mp3,HelenFisher2.mp3,97%
+DanielPink.mp3,JamesCameron.mp3,96%
+DavidDeutsch.mp3,PhilBorges.mp3,98%
+DavidPogue.mp3,SaulGriffith.mp3,95%
+DeanKamen.mp3,JuliaSweeney.mp3,99%
+DeanKamen2.mp3,DeanKamen2.mp3,100%
+DeanOrnish.mp3,DeanOrnish.mp3,100%
+DerekSivers.mp3,DerekSivers.mp3,97%
+ErikHersman.mp3,ErikHersman.mp3,98%
+ErinMcKean.mp3,BarrySchwartz.mp3,99%
+EvanWilliams.mp3,ErikHersman.mp3,96%
+EveEnsler.mp3,DanAriely.mp3,76%
+EvelynGlennie.mp3,CaryFowler.mp3,100%
+EvgenyMorozov.mp3,EvgenyMorozov.mp3,94%
+FieldsWicker.mp3,FieldsWicker.mp3,99%
+GeoffMulgan.mp3,JamesForbes.mp3,97%
+HansRosling.mp3,SusanBlackmore.mp3,89%
+HectorRuiz.mp3,HectorRuiz.mp3,98%
+HelenFisher.mp3,RichardDawkins.mp3,96%
+HelenFisher2.mp3,EvgenyMorozov.mp3,98%
+HowardRheingold.mp3,PatrickAwuah.mp3,99%
+IsabelAllende.mp3,IsabelAllende.mp3,100%
+JamesCameron.mp3,PhilipZimbardo.mp3,96%
+JamesForbes.mp3,JamesForbes.mp3,96%
+JamesSurowiecki.mp3,JamesSurowiecki.mp3,98%
+JanChipchase.mp3,JanChipchase.mp3,100%
+JaneGoodall.mp3,DanDennett.mp3,100%
+JaneMcGonigal.mp3,RaghavaKK.mp3,97%
+JanineBenyus.mp3,HelenFisher.mp3,99%
+JaredDiamond.mp3,PhilippeStarck.mp3,100%
+JayWalker.mp3,TomWujec.mp3,98%
+JeffBezos.mp3,KaryMullis.mp3,100%
+JimmyWales.mp3,DeanKamen.mp3,98%
+JJAbrams.mp3,BurtRutan.mp3,99%
+JohnFrancis.mp3,ChrisAbani.mp3,97%
+JohnHodgman.mp3,AmyTan.mp3,99%
+JohnMaeda.mp3,LawrenceLessig.mp3,100%
+JonathanZittrain.mp3,LizColeman.mp3,96%
+JoseAntonioAbreu.mp3,JoseAntonioAbreu.mp3,87%
+JuliaSweeney.mp3,RickWarren.mp3,99%
+KaryMullis.mp3,JeffBezos.mp3,100%
+KenRobinson.mp3,PatrickAwuah.mp3,94%
+LawrenceLessig.mp3,LawrenceLessig.mp3,100%
+LizColeman.mp3,JamesForbes.mp3,94%
+MaeJemison.mp3,MaeJemison.mp3,98%
+MarcPachter.mp3,MarcPachter.mp3,97%
+MartinSeligman.mp3,RichardSt.John.mp3,99%
+MatthewChilds.mp3,MatthewChilds.mp3,98%
+MatthieuRicard.mp3,IsabelAllende.mp3,99%
+MenaTrott.mp3,MenaTrott.mp3,97%
+MichaelSpecter.mp3,EvgenyMorozov.mp3,98%
+MurrayGellMann.mp3,BarrySchwartz.mp3,100%
+NancyEtcoff.mp3,NancyEtcoff.mp3,84%
+NatalieMerchant.mp3,StephenHawking.mp3,89%
+NicholasChristakis.mp3,EvgenyMorozov.mp3,97%
+NickVeasey.mp3,NickVeasey.mp3,100%
+NoahFeldman.mp3,DanDennett.mp3,100%
+OliverSacks.mp3,BillGates.mp3,98%
+PaolaAntonelli.mp3,PaolaAntonelli.mp3,100%
+PatriciaBurchat.mp3,GeoffMulgan.mp3,96%
+PatrickAwuah.mp3,PatrickAwuah.mp3,100%
+PaulStamets.mp3,PaulStamets.mp3,90%
+PhilBorges.mp3,SaulGriffith.mp3,98%
+PhilippeStarck.mp3,IsabelAllende.mp3,100%
+PhilipZimbardo.mp3,PhilipZimbardo.mp3,97%
+PhilZimbardo2.mp3,AlaindeBotton.mp3,89%
+RaghavaKK.mp3,SamHarris.mp3,93%
+RayKurzweil.mp3,StevenJohnson.mp3,99%
+RebeccaSaxe.mp3,RebeccaSaxe.mp3,95%
+ReedKroloff.mp3,JaneGoodall.mp3,100%
+RichardBaraniuk.mp3,PhilBorges.mp3,99%
+RichardDawkins.mp3,DanDennett.mp3,100%
+RichardDawkins2.mp3,RichardDawkins2.mp3,99%
+RichardSt.John.mp3,CharlesLeadbeater.mp3,99%
+RickWarren.mp3,BenDunlap.mp3,99%
+RobertWright.mp3,YochaiBenkler.wav,99%
+RobForbes.mp3,RayKurzweil.mp3,98%
+SamHarris.mp3,MichaelSpecter.mp3,99%
+SasaVucinic.mp3,SasaVucinic.mp3,99%
+SaulGriffith.mp3,DeanOrnish.mp3,97%
+ScottKim.mp3,RaghavaKK.mp3,95%
+SergeyBrin_LarryPage.mp3,CharlesLeadbeater.mp3,97%
+SethGodin.mp3,RichardSt.John.mp3,99%
+SimonSinek.mp3,SimonSinek.mp3,99%
+StephenHawking.mp3,StephenHawking.mp3,96%
+StephenPetranek.mp3,HowardRheingold.mp3,98%
+StevenJohnson.mp3,StevenJohnson.mp3,100%
+StevenPinker.mp3,JJAbrams.mp3,99%
+StewartBrand.mp3,TomHoney.mp3,98%
+SusanBlackmore.mp3,JohnFrancis.mp3,95%
+ThelmaGolden.mp3,ThelmaGolden.mp3,98%
+TimBerners.mp3,OliverSacks.mp3,97%
+TomHoney.mp3,StevenJohnson.mp3,99%
+TomWujec.mp3,PhilipZimbardo.mp3,96%
+TomWujec2.mp3,TomWujec2.mp3,97%
+TonyRobbins.mp3,BobThurman.mp3,99%
+VilayanurRamachandran.mp3,VilayanurRamachandran.mp3,100%
+VirginiaPostrel.mp3,BrianGreene.mp3,99%
+YochaiBenkler.wav,YochaiBenkler.wav,100%
+ZeresenayAlemseged.mp3,RickWarren.mp3,98%

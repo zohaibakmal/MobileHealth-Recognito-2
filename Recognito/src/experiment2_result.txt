@@ -1,0 +1,253 @@
+Trained: AdoraSvitak.wav
+Trained: AlaindeBotton.wav
+Trained: AlexTabarrok.wav
+Trained: AmyTan.wav
+Trained: AubreyDeGrey.wav
+Trained: BarrySchwartz.wav
+Trained: BarrySchwartz2.wav
+Trained: BenDunlap.wav
+Trained: BenjaminZander.wav
+Trained: BillGates.wav
+Trained: BobThurman.wav
+Trained: BrianCox.wav
+Trained: BrianGreene.wav
+Trained: BurtRutan.wav
+Trained: CarlHonore.wav
+Trained: CaryFowler.wav
+Trained: CharlesLeadbeater.wav
+Trained: ChrisAbani.wav
+Trained: ClayShirky.wav
+Trained: DanAriely.wav
+Trained: DanBuettner.wav
+Trained: DanDennett.wav
+Trained: DanGilbert.wav
+Trained: DanGilbert2.wav
+Trained: DanielGoleman.wav
+Trained: DanielKahneman.wav
+Trained: DanielPink.wav
+Trained: DavidDeutsch.wav
+Trained: DavidPogue.wav
+Trained: DeanKamen.wav
+Trained: DeanKamen2.wav
+Trained: DeanOrnish.wav
+Trained: DerekSivers.wav
+Trained: ErikHersman.wav
+Trained: ErinMcKean.wav
+Trained: EvanWilliams.wav
+Trained: EveEnsler.wav
+Trained: EvelynGlennie.wav
+Trained: EvgenyMorozov.wav
+Trained: FieldsWicker.wav
+Trained: GeoffMulgan.wav
+Trained: HansRosling.wav
+Trained: HectorRuiz.wav
+Trained: HelenFisher.wav
+Trained: HelenFisher2.wav
+Trained: HowardRheingold.wav
+Trained: IsabelAllende.wav
+Trained: JamesCameron.wav
+Trained: JamesForbes.wav
+Trained: JamesSurowiecki.wav
+Trained: JanChipchase.wav
+Trained: JaneGoodall.wav
+Trained: JaneMcGonigal.wav
+Trained: JanineBenyus.wav
+Trained: JaredDiamond.wav
+Trained: JayWalker.wav
+Trained: JeffBezos.wav
+Trained: JimmyWales.wav
+Trained: JJAbrams.wav
+Trained: JohnFrancis.wav
+Trained: JohnHodgman.wav
+Trained: JohnMaeda.wav
+Trained: JonathanZittrain.wav
+Trained: JoseAntonioAbreu.wav
+Trained: JuliaSweeney.wav
+Trained: KaryMullis.wav
+Trained: KenRobinson.wav
+Trained: LawrenceLessig.wav
+Trained: LizColeman.wav
+Trained: MaeJemison.wav
+Trained: MarcPachter.wav
+Trained: MartinSeligman.wav
+Trained: MatthewChilds.wav
+Trained: MatthieuRicard.wav
+Trained: MenaTrott.wav
+Trained: MichaelSpecter.wav
+Trained: MurrayGellMann.wav
+Trained: NancyEtcoff.wav
+Trained: NatalieMerchant.wav
+Trained: NicholasChristakis.wav
+Trained: NickVeasey.wav
+Trained: NoahFeldman.wav
+Trained: OliverSacks.wav
+Trained: PaolaAntonelli.wav
+Trained: PatriciaBurchat.wav
+Trained: PatrickAwuah.wav
+Trained: PaulStamets.wav
+Trained: PhilBorges.wav
+Trained: PhilippeStarck.wav
+Trained: PhilipZimbardo.wav
+Trained: PhilZimbardo2.wav
+Trained: RaghavaKK.wav
+Trained: RayKurzweil.wav
+Trained: RebeccaSaxe.wav
+Trained: ReedKroloff.wav
+Trained: RichardBaraniuk.wav
+Trained: RichardDawkins.wav
+Trained: RichardDawkins2.wav
+Trained: RichardSt.John.wav
+Trained: RickWarren.wav
+Trained: RobertWright.wav
+Trained: RobForbes.wav
+Trained: SamHarris.wav
+Trained: SasaVucinic.wav
+Trained: SaulGriffith.wav
+Trained: ScottKim.wav
+Trained: SergeyBrin_LarryPage.wav
+Trained: SethGodin.wav
+Trained: SimonSinek.wav
+Trained: StephenHawking.wav
+Trained: StephenPetranek.wav
+Trained: StevenJohnson.wav
+Trained: StevenPinker.wav
+Trained: StewartBrand.wav
+Trained: SusanBlackmore.wav
+Trained: ThelmaGolden.wav
+Trained: TimBerners.wav
+Trained: TomHoney.wav
+Trained: TomWujec.wav
+Trained: TomWujec2.wav
+Trained: TonyRobbins.wav
+Trained: VilayanurRamachandran.wav
+Trained: VirginiaPostrel.wav
+Trained: YochaiBenkler.wav
+Trained: ZeresenayAlemseged.wav
+Universal model trained!!
+Test,Matched To,Likelihood
+AdoraSvitak.wav,TomWujec2.wav,99%
+AlaindeBotton.wav,JonathanZittrain.wav,98%
+AlexTabarrok.wav,AlexTabarrok.wav,96%
+AmyTan.wav,ClayShirky.wav,98%
+AubreyDeGrey.wav,HowardRheingold.wav,90%
+BarrySchwartz.wav,JaredDiamond.wav,97%
+BarrySchwartz2.wav,ErikHersman.wav,96%
+BenDunlap.wav,RickWarren.wav,99%
+BenjaminZander.wav,PaulStamets.wav,73%
+BillGates.wav,TimBerners.wav,98%
+BobThurman.wav,BobThurman.wav,98%
+BrianCox.wav,PatriciaBurchat.wav,99%
+BrianGreene.wav,BrianGreene.wav,100%
+BurtRutan.wav,SasaVucinic.wav,100%
+CarlHonore.wav,HowardRheingold.wav,95%
+CaryFowler.wav,DeanKamen2.wav,91%
+CharlesLeadbeater.wav,HowardRheingold.wav,92%
+ChrisAbani.wav,PhilZimbardo2.wav,84%
+ClayShirky.wav,ChrisAbani.wav,97%
+DanAriely.wav,NancyEtcoff.wav,92%
+DanBuettner.wav,HansRosling.wav,97%
+DanDennett.wav,SethGodin.wav,97%
+DanGilbert.wav,SergeyBrin_LarryPage.wav,95%
+DanGilbert2.wav,StewartBrand.wav,95%
+DanielGoleman.wav,DanielGoleman.wav,100%
+DanielKahneman.wav,NicholasChristakis.wav,98%
+DanielPink.wav,BenjaminZander.wav,88%
+DavidDeutsch.wav,RichardSt.John.wav,80%
+DavidPogue.wav,RobertWright.wav,96%
+DeanKamen.wav,BurtRutan.wav,99%
+DeanKamen2.wav,ThelmaGolden.wav,88%
+DeanOrnish.wav,SergeyBrin_LarryPage.wav,94%
+DerekSivers.wav,DerekSivers.wav,91%
+ErikHersman.wav,EvanWilliams.wav,94%
+ErinMcKean.wav,DanielGoleman.wav,100%
+EvanWilliams.wav,EvanWilliams.wav,96%
+EveEnsler.wav,ThelmaGolden.wav,99%
+EvelynGlennie.wav,AlaindeBotton.wav,97%
+EvgenyMorozov.wav,DeanKamen2.wav,94%
+FieldsWicker.wav,LizColeman.wav,99%
+GeoffMulgan.wav,TomWujec.wav,96%
+HansRosling.wav,DeanKamen2.wav,93%
+HectorRuiz.wav,KenRobinson.wav,96%
+HelenFisher.wav,TonyRobbins.wav,99%
+HelenFisher2.wav,JonathanZittrain.wav,98%
+HowardRheingold.wav,PatrickAwuah.wav,99%
+IsabelAllende.wav,SethGodin.wav,99%
+JamesCameron.wav,JaneMcGonigal.wav,88%
+JamesForbes.wav,JamesForbes.wav,96%
+JamesSurowiecki.wav,HowardRheingold.wav,100%
+JanChipchase.wav,JJAbrams.wav,100%
+JaneGoodall.wav,JeffBezos.wav,100%
+JaneMcGonigal.wav,AdoraSvitak.wav,85%
+JanineBenyus.wav,TonyRobbins.wav,99%
+JaredDiamond.wav,JaredDiamond.wav,99%
+JayWalker.wav,NatalieMerchant.wav,73%
+JeffBezos.wav,JamesSurowiecki.wav,100%
+JimmyWales.wav,BrianGreene.wav,96%
+JJAbrams.wav,VilayanurRamachandran.wav,99%
+JohnFrancis.wav,PatriciaBurchat.wav,95%
+JohnHodgman.wav,JayWalker.wav,93%
+JohnMaeda.wav,CharlesLeadbeater.wav,98%
+JonathanZittrain.wav,SimonSinek.wav,95%
+JoseAntonioAbreu.wav,TimBerners.wav,87%
+JuliaSweeney.wav,BrianGreene.wav,100%
+KaryMullis.wav,KaryMullis.wav,99%
+KenRobinson.wav,HectorRuiz.wav,99%
+LawrenceLessig.wav,AubreyDeGrey.wav,93%
+LizColeman.wav,DanielPink.wav,95%
+MaeJemison.wav,PaulStamets.wav,89%
+MarcPachter.wav,MarcPachter.wav,97%
+MartinSeligman.wav,HowardRheingold.wav,94%
+MatthewChilds.wav,MatthewChilds.wav,80%
+MatthieuRicard.wav,RichardSt.John.wav,98%
+MenaTrott.wav,SaulGriffith.wav,100%
+MichaelSpecter.wav,MichaelSpecter.wav,96%
+MurrayGellMann.wav,MurrayGellMann.wav,100%
+NancyEtcoff.wav,NancyEtcoff.wav,91%
+NatalieMerchant.wav,NatalieMerchant.wav,87%
+NicholasChristakis.wav,ClayShirky.wav,97%
+NickVeasey.wav,AlaindeBotton.wav,94%
+NoahFeldman.wav,KenRobinson.wav,99%
+OliverSacks.wav,RaghavaKK.wav,91%
+PaolaAntonelli.wav,YochaiBenkler.wav,98%
+PatriciaBurchat.wav,AmyTan.wav,92%
+PatrickAwuah.wav,PatrickAwuah.wav,95%
+PaulStamets.wav,StephenHawking.wav,83%
+PhilBorges.wav,JuliaSweeney.wav,99%
+PhilippeStarck.wav,BrianGreene.wav,100%
+PhilipZimbardo.wav,RebeccaSaxe.wav,97%
+PhilZimbardo2.wav,MichaelSpecter.wav,89%
+RaghavaKK.wav,BillGates.wav,93%
+RayKurzweil.wav,DanDennett.wav,98%
+RebeccaSaxe.wav,BenjaminZander.wav,90%
+ReedKroloff.wav,KenRobinson.wav,98%
+RichardBaraniuk.wav,HowardRheingold.wav,95%
+RichardDawkins.wav,KenRobinson.wav,100%
+RichardDawkins2.wav,JeffBezos.wav,99%
+RichardSt.John.wav,HowardRheingold.wav,81%
+RickWarren.wav,VilayanurRamachandran.wav,99%
+RobertWright.wav,DanDennett.wav,98%
+RobForbes.wav,DanDennett.wav,99%
+SamHarris.wav,EvelynGlennie.wav,95%
+SasaVucinic.wav,MartinSeligman.wav,99%
+SaulGriffith.wav,MenaTrott.wav,100%
+ScottKim.wav,PatriciaBurchat.wav,96%
+SergeyBrin_LarryPage.wav,MatthieuRicard.wav,98%
+SethGodin.wav,JamesSurowiecki.wav,100%
+SimonSinek.wav,TimBerners.wav,76%
+StephenHawking.wav,NancyEtcoff.wav,81%
+StephenPetranek.wav,PatrickAwuah.wav,98%
+StevenJohnson.wav,DanDennett.wav,99%
+StevenPinker.wav,SergeyBrin_LarryPage.wav,88%
+StewartBrand.wav,DanDennett.wav,96%
+SusanBlackmore.wav,TomWujec.wav,98%
+ThelmaGolden.wav,ThelmaGolden.wav,97%
+TimBerners.wav,TimBerners.wav,98%
+TomHoney.wav,KenRobinson.wav,99%
+TomWujec.wav,ChrisAbani.wav,97%
+TomWujec2.wav,DerekSivers.wav,89%
+TonyRobbins.wav,TonyRobbins.wav,100%
+VilayanurRamachandran.wav,CharlesLeadbeater.wav,98%
+VirginiaPostrel.wav,BrianGreene.wav,100%
+YochaiBenkler.wav,BurtRutan.wav,100%
+ZeresenayAlemseged.wav,RickWarren.wav,99%
+Done!
